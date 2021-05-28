@@ -10,3 +10,5 @@ def multiply(x,y):
 #dev implementation
 def divide(x,y):
     pass
+def cube(x):
+	return x*x*x
